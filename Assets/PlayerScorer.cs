@@ -11,7 +11,7 @@ public class PlayerScorer : MonoBehaviour
         
         Debug.Log("Total Hits: "+hits);
          Debug.Log("reahn");
-         Debug.Log("reahn");
+        
 
         hits++;
    }
